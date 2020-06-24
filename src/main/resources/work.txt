@@ -1,0 +1,6 @@
+hello scala
+hello flink spark
+hello shanghai
+hello qingdao jinan shandong
+hello beijing qingdao shanghai
+hello spark flink impala
